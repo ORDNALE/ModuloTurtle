@@ -1,5 +1,5 @@
 from turtle import Turtle
-# iniciando
+# iniciando-----
 t = Turtle()
 t.speed(1)
 
